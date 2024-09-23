@@ -1,4 +1,5 @@
 Excited to share my latest project on Power BI! 📊
+
 I recently completed a data analysis project focused on pizza sales using Power BI, and I'm thrilled to showcase the insights I've uncovered. Here's a glimpse into what the project involved:
 
 Data Collection:
